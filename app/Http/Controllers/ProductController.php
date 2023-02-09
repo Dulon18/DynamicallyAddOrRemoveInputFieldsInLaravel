@@ -10,4 +10,8 @@ class ProductController extends Controller
     {
         return view('productForm');
     }
+    function storeProduct(Request $request)
+    {
+
+    }
 }

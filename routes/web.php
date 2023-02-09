@@ -5,9 +5,9 @@ use App\Http\Controllers\ProductController;
 
 
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-Route::get('/addmore',[ProductController::class,'addMoreProduct']);
+Route::get('/',[ProductController::class,'addMoreProduct']);
 Route::post("/storeProduct",[ProductController::class,'storeProduct'])->name('storemoreProduct');
