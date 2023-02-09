@@ -7,4 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Output
 
+![AddRemove](https://user-images.githubusercontent.com/80118217/217838071-e6599f18-b869-4e53-9238-1ef73ce3296a.JPG)
